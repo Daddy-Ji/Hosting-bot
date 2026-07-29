@@ -56,9 +56,9 @@ def keep_alive():
 
 # --- Configuration ---
 TOKEN = '8874117933:AAEg7jn-ptxyfxdVNnCvwurE540P53m1CtQ' # Replace with your actual token
-OWNER_ID = 8511039214 # Replace with your Owner ID
+OWNER_ID = 8588291055 # Replace with your Owner ID
 ADMIN_ID = 7545160600 # Replace with your Admin ID (can be same as Owner)
-YOUR_USERNAME = '@KiyotakaHere' # Replace with your Telegram username (without the @)
+YOUR_USERNAME = 'KiyotakaHere' # Replace with your Telegram username (without the @)
 UPDATE_CHANNEL = 'https://t.me/Edu_Leak' # Replace with your update channel link
 
 # Folder setup - using absolute paths
