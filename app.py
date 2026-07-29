@@ -40,7 +40,7 @@ app = Flask('')
 
 @app.route('/')
 def home():
-    return "I'M DEV HOSTING BOT"
+    return "I'M SHAURYA'S HOSTING BOT"
 
 def run_flask():
   # Make sure to run on port provided by environment or default to 8080
@@ -55,10 +55,10 @@ def keep_alive():
 # --- End Flask Keep Alive ---
 
 # --- Configuration ---
-TOKEN = '8874117933:AAEg7jn-ptxyfxdVNnCvwurE540P53m1CtQ' # Replace with your actual token
+TOKEN = '8689794871:AAH0ECMyuusqWDujbdS8lsGSnEcpTyAtseg' # Replace with your actual token
 OWNER_ID = 8588291055 # Replace with your Owner ID
 ADMIN_ID = 7545160600 # Replace with your Admin ID (can be same as Owner)
-YOUR_USERNAME = 'KiyotakaHere' # Replace with your Telegram username (without the @)
+YOUR_USERNAME = 'SUNIOxRICH' # Replace with your Telegram username (without the @)
 UPDATE_CHANNEL = 'https://t.me/Edu_Leak' # Replace with your update channel link
 
 # Folder setup - using absolute paths
